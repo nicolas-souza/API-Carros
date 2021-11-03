@@ -1,0 +1,35 @@
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.csproj.AssemblyReference.cache
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.AssemblyInfoInputs.cache
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.AssemblyInfo.cs
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\appsettings.json
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\API Carros.exe
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\API Carros.deps.json
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\API Carros.runtimeconfig.json
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\API Carros.runtimeconfig.dev.json
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\API Carros.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\ref\API Carros.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\API Carros.pdb
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\staticwebassets\API Carros.StaticWebAssets.Manifest.cache
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\staticwebassets\API Carros.StaticWebAssets.xml
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\scopedcss\bundle\API Carros.styles.css
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.RazorTargetAssemblyInfo.cache
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.csproj.CopyComplete
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\ref\API Carros.dll
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.pdb
+C:\Users\nicolas.souza\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\GitHub\API-Carros\API Carros\API Carros\obj\Debug\net5.0\API Carros.genruntimeconfig.cache
