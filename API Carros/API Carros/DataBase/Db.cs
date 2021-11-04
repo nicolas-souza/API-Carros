@@ -7,38 +7,28 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using Microsoft.AspNetCore.Mvc;
+using System.IO;
 
 namespace API_CARROS.DataBase
 {
     public class Db
     {
-        public string Servidor { get; set; }
-        public string DataBase { get; set; }
-        public string Usuario { get; set; }
-        public string Senha { get; set; }
-
         private string sql { get; set; }
 
         String ConnectionString;
         SqlConnection _mConn;
 
-        //public IConfiguration iconfig;
-
-
         public Db()
         {
 
-            //string teste = iconfig.GetSection("ConnectionString").GetSection("Server").Value;
+            
+            var builder = new ConfigurationBuilder()
+                            .SetBasePath(Directory.GetCurrentDirectory())
+                            .AddJsonFile("appsettings.json");
 
-            //iconfig = configuration;
+            var configuration = builder.Build();
 
-            Servidor = @"RDXNTBRJ3256"; 
-            DataBase = "Carros";
-            Usuario = "Teste";
-            Senha = "123";
-
-            ConnectionString = "Server= " + Servidor + "; Database= " + DataBase + "; Integrated Security=True;";
-
+            ConnectionString = configuration.GetSection("ConnectionString").GetSection("ServerConnection").Value;
         }
 
         public void Conectar()
