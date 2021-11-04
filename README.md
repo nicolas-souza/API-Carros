@@ -18,7 +18,7 @@ Está presente nessa classe as operações com banco de dados:
 
 ## Controller
 
-O controller é responsável por controlar (dã) as chamadas feitas pelo cliente, direcionando, segundo o verbo HTTP e os parâmetros passados na url, a solicitação para realizar a devida operação.
+O controller é responsável por controlar (😅) as chamadas feitas pelo cliente, direcionando, segundo o verbo HTTP e os parâmetros passados na url, a solicitação para realizar a devida operação.
 
 ### Verbos e ações suportadas:
 
